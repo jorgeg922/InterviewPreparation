@@ -1,0 +1,26 @@
+Low Level Design
+Rate Limiter
+LRU
+Snake Game
+Domain visits counter
+Webscrapper
+Trie
+Snake-Ladder Game
+Connections Pool
+
+System Design (High Level Design)
+Task Scheduler
+Tagging System (Support adding, updating, removing and trending tags)
+Color Picker
+Ranking System for likes, shares, comments
+
+Leetcode Style Questions
+Router Service (Support wildcards)
+Output sum of file sizes
+Max number of matching words
+Words with the most repeated characters
+HashMap
+Vote count (largest total wins, if tied for first -> whoever got the most votes for second wins, 3rd, 4th, etc. If still tied use name)
+Median of unsorted array
+Base 7 Conversion
+Annual cost calculator
